@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T07:03+09:00",
+ "updated": "2026-11-13T06:40+09:00",
  "items": [
   {
    "name": "시흥거모지구 S-1블록 공공분양(본청약)",
@@ -180,6 +180,24 @@
    "end": "2026-11-19",
    "units": 113,
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497"
+  },
+  {
+   "name": "부천대장 하우스토리 디센트(부천대장지구 A2BL) 공공분양주택",
+   "region": "경기",
+   "kind": "국민",
+   "start": "2026-11-23",
+   "end": "2026-11-25",
+   "units": 548,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000457&pblancNo=2026000457"
+  },
+  {
+   "name": "아르뮤제자이",
+   "region": "경기",
+   "kind": "민영",
+   "start": "2026-11-23",
+   "end": "2026-11-25",
+   "units": 984,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000576&pblancNo=2026000576"
   }
  ]
 }
