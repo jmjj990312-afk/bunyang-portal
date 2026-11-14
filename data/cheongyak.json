@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:42+09:00",
+ "updated": "2026-11-15T06:29+09:00",
  "items": [
   {
    "name": "시흥거모지구 S-1블록 공공분양(본청약)",
@@ -11,42 +11,6 @@
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000531&pblancNo=2026000531"
   },
   {
-   "name": "광교 자연앤 센트레빌(A17BL) 공공분양주택",
-   "region": "경기",
-   "kind": "국민",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 360,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000528&pblancNo=2026000528"
-  },
-  {
-   "name": "광교 자연앤 센트레빌(A17BL) 지분적립형 분양주택",
-   "region": "경기",
-   "kind": "국민",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 240,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000527&pblancNo=2026000527"
-  },
-  {
-   "name": "구리갈매역세권 B-1블록 신안인스빌 디센트",
-   "region": "경기",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 213,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000472&pblancNo=2026000472"
-  },
-  {
-   "name": "남춘천 센트레빌",
-   "region": "강원",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 264,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000539&pblancNo=2026000539"
-  },
-  {
    "name": "안산신길2지구 B-1블록 공공분양주택(본청약)",
    "region": "경기",
    "kind": "국민",
@@ -56,15 +20,6 @@
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000533&pblancNo=2026000533"
   },
   {
-   "name": "엘리프 시흥 더프라임",
-   "region": "경기",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 304,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000525&pblancNo=2026000525"
-  },
-  {
    "name": "중앙하이츠 구성 플랫폼시티",
    "region": "경기",
    "kind": "민영",
@@ -72,33 +27,6 @@
    "end": "2026-11-12",
    "units": 76,
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000535&pblancNo=2026000535"
-  },
-  {
-   "name": "평택 고덕 우미 린 더 프리미어",
-   "region": "경기",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 623,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000515&pblancNo=2026000515"
-  },
-  {
-   "name": "한화포레나 지제역",
-   "region": "경기",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 1098,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000499&pblancNo=2026000499"
-  },
-  {
-   "name": "형곡 센트럴 아테라",
-   "region": "경북",
-   "kind": "민영",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "units": 135,
-   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000523&pblancNo=2026000523"
   },
   {
    "name": "남양주왕숙 A-2블록 신혼희망타운(공공분양) 잔여세대 추가입주자모집공고",
