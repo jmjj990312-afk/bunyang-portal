@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:46+09:00",
+ "updated": "2026-11-19T06:46+09:00",
  "items": [
   {
    "name": "시흥거모지구 S-1블록 공공분양(본청약)",
@@ -92,6 +92,15 @@
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000497&pblancNo=2026000497"
   },
   {
+   "name": "구미 파크원 데시앙",
+   "region": "경북",
+   "kind": "민영",
+   "start": "2026-11-23",
+   "end": "2026-11-25",
+   "units": 1355,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000536&pblancNo=2026000536"
+  },
+  {
    "name": "더샵 트리센트(조합원 자격상실 세대분)",
    "region": "부산",
    "kind": "민영",
@@ -99,6 +108,15 @@
    "end": "2026-11-25",
    "units": 103,
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000563&pblancNo=2026000563"
+  },
+  {
+   "name": "두산위브 트레지움 익산",
+   "region": "전북",
+   "kind": "민영",
+   "start": "2026-11-23",
+   "end": "2026-11-25",
+   "units": 251,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000559&pblancNo=2026000559"
   },
   {
    "name": "부천대장 하우스토리 디센트(부천대장지구 A2BL) 공공분양주택",
