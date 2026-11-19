@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:46+09:00",
+ "updated": "2026-11-20T06:44+09:00",
  "items": [
   {
    "name": "시흥거모지구 S-1블록 공공분양(본청약)",
@@ -180,6 +180,33 @@
    "end": "2026-11-30",
    "units": 134,
    "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000505&pblancNo=2026000505"
+  },
+  {
+   "name": "고양 한신더휴 퍼스트원",
+   "region": "경기",
+   "kind": "민영",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "units": 102,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000585&pblancNo=2026000585"
+  },
+  {
+   "name": "더샵 천안라크원",
+   "region": "충남",
+   "kind": "민영",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "units": 1032,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000521&pblancNo=2026000521"
+  },
+  {
+   "name": "왕숙 한신더휴 센텀(남양주 왕숙 A-17BL) 공공분양주택",
+   "region": "경기",
+   "kind": "국민",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "units": 379,
+   "url": "https://www.applyhome.co.kr/ai/aia/selectAPTLttotPblancDetail.do?houseManageNo=2026000575&pblancNo=2026000575"
   }
  ]
 }
